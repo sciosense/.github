@@ -1,8 +1,8 @@
-<img src="sciosense-cover-photo.jpg">
+<img src="images/sciosense-cover-photo.jpg">
 
 # Hi there 👋 Welcome to the ScioSense GitHub Page
 
-## A few quick pointers
+### A few quick pointers
 - Overview of driver repositories (includes third party projects): [https://github.com/sciosense/overview](https://github.com/sciosense/overview)
 - ScioSense Website: [https://www.sciosense.com/](https://www.sciosense.com/)
 
