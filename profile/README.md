@@ -1,4 +1,4 @@
-<img src="images/sciosense-cover-photo.jpg">
+<img src="../images/sciosense-cover-photo.jpg">
 
 # Hi there 👋 Welcome to the ScioSense GitHub Page
 
