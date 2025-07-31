@@ -10,4 +10,4 @@
 ### Need help?
 For support on the software projects hosted here, please use GitHub's issue tracking to ask a question or report a problem.
 
-For questions about ScioSense products, please use the [contact form](https://www.sciosense.com/contact/) on the ScioSense website.
+For questions about ScioSense products, please click <a href="mailto:support@sciosense.com">here</a> to to contact our Technical Support team.
